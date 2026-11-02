@@ -1,13 +1,17 @@
 {
-  "title": "Mi Primera Prueba en Killercoda",
-  "description": "Prueba rápida de herramientas Linux",
+  "title": "Minicurso de Linux para Principiantes",
+  "description": "Aprende los comandos esenciales de la terminal paso a paso.",
   "difficulty": "beginner",
-  "time": 20,
+  "time": 15,
   "details": {
     "steps": [
       {
-        "title": "Paso 1: Verificar entorno",
+        "title": "1. Moverse entre directorios (cd)",
         "text": "steps/step1.md"
+      },
+      {
+        "title": "2. Copiar archivos (cp)",
+        "text": "steps/step2.md"
       }
     ],
     "intro": {
