@@ -7,18 +7,18 @@
     "steps": [
       {
         "title": "1. Moverse entre directorios (cd)",
-        "text": "scenarios/steps/step1.md"
+        "text": "escenarios/steps/step1.md"
       },
       {
         "title": "2. Copiar archivos (cp)",
-        "text": "scenarios/steps/step2.md"
+        "text": "escenarios/steps/step2.md"
       }
     ],
     "intro": {
-      "text": "scenarios/intro.md"
+      "text": "escenarios/intro.md"
     },
     "finish": {
-      "text": "scenarios/finish.md"
+      "text": "escenarios/finish.md"
     }
   },
   "backend": {
