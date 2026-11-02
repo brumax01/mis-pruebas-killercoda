@@ -7,47 +7,21 @@
     "steps": [
       {
         "title": "1. Moverse entre directorios (cd)",
-        "text": "steps/step1.md"
+        "text": "scenarios/steps/step1.md"
       },
       {
         "title": "2. Copiar archivos (cp)",
-        "text": "steps/step2.md"
+        "text": "scenarios/steps/step2.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "scenarios/intro.md"
     },
     "finish": {
-      "text": "finish.md"
+      "text": "scenarios/finish.md"
     }
   },
   "backend": {
     "imageid": "ubuntu"
-  },
-  "scenarios": [
-    {
-      "title": "Minicurso de Linux para Principiantes",
-      "name": "minicurso-linux",
-      "intro": {
-        "text": "intro.md"
-      },
-      "finish": {
-        "text": "finish.md"
-      },
-      "steps": [
-        {
-          "title": "1. Moverse entre directorios (cd)",
-          "text": "steps/step1.md"
-        },
-        {
-          "title": "2. Copiar archivos (cp)",
-          "text": "steps/step2.md"
-        }
-      ],
-      "backend": {
-        "imageid": "ubuntu"
-      }
-    }
-  ]
+  }
 }
-
