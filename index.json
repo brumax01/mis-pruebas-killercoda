@@ -1,0 +1,25 @@
+{
+  "title": "Mi Primera Prueba en Killercoda",
+  "description": "Prueba rápida de herramientas Linux",
+  "difficulty": "beginner",
+  "time": 20,
+  "details": {
+    "steps": [
+      {
+        "title": "Paso 1: Verificar entorno",
+        "text": "steps/step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "kilercoda": {
+      "image": "ubuntu:2204"
+    }
+  }
+}
