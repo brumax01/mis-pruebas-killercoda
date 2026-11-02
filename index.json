@@ -22,8 +22,9 @@
     }
   },
   "environment": {
-    "kilercoda": {
-      "image": "ubuntu:2204"
+    "uilayout": "terminal",
+    "backend": {
+      "imageid": "ubuntu:2204"
     }
   },
   "backend": {
