@@ -2,23 +2,23 @@
   "title": "Minicurso de Linux",
   "description": "Aprende los comandos esenciales de la terminal paso a paso.",
   "difficulty": "beginner",
-  "time": 15,
+  "time": "15 minutes",
   "details": {
     "steps": [
       {
         "title": "1. Moverse entre directorios (cd)",
-        "text": "escenarios/steps/step1.md"
+        "text": "steps/step1.md"
       },
       {
         "title": "2. Copiar archivos (cp)",
-        "text": "escenarios/steps/step2.md"
+        "text": "steps/step2.md"
       }
     ],
     "intro": {
-      "text": "escenarios/intro.md"
+      "text": "intro.md"
     },
     "finish": {
-      "text": "escenarios/finish.md"
+      "text": "finish.md"
     }
   },
   "backend": {
